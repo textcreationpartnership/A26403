@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address to the nobility, clergy and gentlemen of Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26403</idno>
+            <idno type="STC">Wing A567</idno>
+            <idno type="STC">ESTC R217202</idno>
+            <idno type="EEBO-CITATION">99828899</idno>
+            <idno type="PROQUEST">99828899</idno>
+            <idno type="VID">33332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1983:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address to the nobility, clergy and gentlemen of Scotland</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Christ Church Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33332:1" rendition="simple:additions"/>
+            <head>AN ADDRESS TO THE Nobility, Clergy and Gentlemen OF SCOTLAND.</head>
+            <p>NOthing is now more evident, then that the preſent Revoluti<g ref="char:EOLhyphen"/>ons in <hi>England</hi> could never have been effected, had it been foreſeen, that either the King ſhould have been Dethroned, or that Any had Deſigned to make the Prince of <hi>Orange</hi> King. When ſo many, out of Zeal for the Preſervation of the <hi>Proteſtant Religion,</hi> either actively Contributed their Aſſiſtance to the Prince, or tamely yeilded to the common Inclination of the Multitude; it was out of confidence, that the Prince deſigned nothing, but what he had publiſhed in his Declaration.</p>
+            <p>It was not then known what ſpecial Agents had been long before Imploy<g ref="char:EOLhyphen"/>ed to gain the Concurrence of ſo many Lords Spiritual and Temporal, Gentlemen and Officers in the Army, to declare ſo boldly for the Prince; nor that ſeveral of them had entred into an Aſſociation for that purpoſe: Nor was it diſcovered even to the Aſſociators themſelves that any thing was Deſigned, but in a Dutiful way to Solicite the King to Call a <hi>Free Par<g ref="char:EOLhyphen"/>liament,</hi> and by it to Secure our <hi>Religion</hi> and <hi>Properties:</hi> So that 'tis cer<g ref="char:EOLhyphen"/>tain many, who, never intended to improve the Succeſs to the Diſhonour of their Avowed Allegiance, were content to lay a ſleep the <hi>Doctrine of Obedience</hi> to the King, as only Supream Governour; and that of <hi>Non-Reſiſtance,</hi> till they ſaw <hi>Popery</hi> underfoot, and then thought to have re<g ref="char:EOLhyphen"/>turned to their Duty.</p>
+            <p>Others, we know, were chafed into a heat with the confident Report of Articles Signed betwixt our King and the King of <hi>France,</hi> to extirpate <hi>Proteſtantiſme;</hi> of an unparallel'd Crime of the King and Queen's impoſing a Prince of <hi>Wales,</hi> to the prejudice of the Succeſſion of His two Royal Daughters; and of two pretended Inhumane Murders: And the Mobile were by Contrivance kept up in the higheſt Ferment, and Animated to pull down <hi>Popiſh Chapels,</hi> and Burn their Church Stuff, to prevent, as they were made to believe, a Maſſacre by the <hi>Papiſts,</hi> till the Prince had got Poſſeſſion of <hi>London,</hi> the <hi>Tower,</hi> and all ſtrong Holds and Ports in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and the King was forced to Diſſolve His Army and Flie for Security.</p>
+            <p>Then the Deſigners of this great Change begun to ſhew themſelves more bare-faced; and a <hi>Convention</hi> of Commons was choſen of the moſt active Men in all places for bringing about this Change: Some of theſe led by Inclination and Intereſt; others driven by the fear of being reputed Fa<g ref="char:EOLhyphen"/>vourers of <hi>Papiſts,</hi> or Cenſured for complying formerly with the King; and the remainder, who had contributed to this Revolution, being neceſſitated
+<pb n="2" facs="tcp:33332:2"/>for ſelf Preſervation, have laid a new Foundation of the Monarchy of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> And owning the Government to be Devolved upon the People, have by Vertue of being their Repreſentative, made the Monarchy Elective; which will give ſuch an Advantage to the Old <hi>Republicans,</hi> that it is to be feared, none of the King's Race (whilſt they have, or can obtain Power) muſt enjoy the Crown longer then they pleaſe the Populace and their Pa<g ref="char:EOLhyphen"/>trons.</p>
+            <p>By theſe Methods, matters have been brought to this paſs in <hi>England;</hi> whilſt you, the Noblemen, Gentry and Subjects of <hi>Scotland,</hi> by the lateneſs of your <hi>Convention,</hi> have had time to ſee how the Loyal <hi>Proteſtants</hi> in <hi>England</hi> have been deluded; how much even ſuch as have been Active for the Prince's Intereſt condemn themſelves for their Credulity, and with what Reſentment and Indignation they endeavour to make it appear to the World, how much they deteſt the late Proceedings. So that it is moſt evi<g ref="char:EOLhyphen"/>dent, that the King hath now more Cordial <hi>Proteſtant</hi> Friends in all the Countryes of <hi>England,</hi> then ever he had before; not only out of a Com<g ref="char:EOLhyphen"/>paſſion for His Sufferings, but out of a true ſenſe of the greateſt Injuſtice done to Him, that was ever done to any Lawful King, except His Royal Martyrd Father; and in one Circumſtance out doing that and all former Precedents, in that His Nephew and Son in Law, and His own Daughter, without any remorſe, are placed in His Throne.</p>
+            <p>Beſides theſe Conſiderations, they reflect upon the inevitable Calamities which muſt attend ſo unnatural and unjuſt a Violence; for beſides that, it will entail a War upon our Poſterity, till the King have Right done Him, we ſhall be utterly ruined by the Charge of ſupporting this new Title, and looſe our Trade to the <hi>Dutch,</hi> or be neceſſitated to Fight for it, after our Navies and Ports are ſubjected to them; and by this they having got an Inlet to inſpect our Strength and Revenue, we ſhall never be able to hold out againſt their Incroachments. For I think it is now obvious to all, that the Aſſiſtance given to the Prince by the States, and the Princes Confede<g ref="char:EOLhyphen"/>rates againſt <hi>France,</hi> was not for <hi>Religion,</hi> but to put the Government here into ſuch hands as might at preſent actually ſtrengthen them againſt that Great Monarch.</p>
+            <p>All theſe Particulars are now as conſpicuous to you as the Sun at noon day, and the only excuſe the Army and Loyal <hi>Proteſtants</hi> of <hi>England</hi> have, for their inglorious Deſerting of the King, is that theſe things were by great Arts hid from their eyes, and they ſaw no appearance of them, till the <hi>Convention</hi> had made a conſiderable progreſs towards their new Settle<g ref="char:EOLhyphen"/>ment.</p>
+            <p>However, beſides this perſpicuity of the Deſign from firſt to laſt, which is now manifeſt to you, you cannot have that Plea for your Excluding the King, which the <hi>Convention</hi> here have made moſt uſe of, <hi>viz. That</hi> Popery <hi>could not be otherwiſe kept out, but by making the Prince of</hi> Orange <hi>King, be<g ref="char:EOLhyphen"/>cauſe the King had a numerous Party of</hi> Roman Catholicks <hi>in</hi> England; <hi>and that the King had</hi> Abdicated <hi>the Government, and ſo the Throne was become Vacant:</hi> For you have at leaſt a Thouſand <hi>Proteſtants</hi> in <hi>Scotland,</hi> for one <hi>Papiſt;</hi> and as to the <hi>Abdication,</hi> all your Miniſters of State and Juſtice, as well as Military Forces, act by His Majeſty's Commiſſions whilſt He is be<g ref="char:EOLhyphen"/>yond the Seas, as well as they did whilſt He was at <hi>London;</hi> and you have no <hi>Duch</hi> Forces to ſuperſede your actings. So that if you ſhould now <hi>Abdi<g ref="char:EOLhyphen"/>cate</hi> your King, you have neither ignorance of the Deſign of the King's Ene<g ref="char:EOLhyphen"/>mies, nor an over-awing force, nor any colourable Plea for your excuſe to the World.</p>
+            <p>It cannot be forgotten by you how great a Stain it was to your Nation, that a Party there having the whole power of your Kingdom in their hands, and in actual Conjunction with their Rebellious Brethren in <hi>England,</hi> ſold
+<pb n="3" facs="tcp:33332:2"/>His Majeſty's Father to the <hi>Parliament</hi> and <hi>Army</hi> in <hi>England,</hi> and how dearly you paid Intereſt for the Money, which was the Price of your <hi>Sovereign</hi>'s <hi>Blood,</hi> whom they ſo Barbarourſly Murdered. Nor is it here to be forgot, how Zealouſly you have laboured to waſh away that Stain: How earneſt<g ref="char:EOLhyphen"/>ly your <hi>Commiſſioners</hi> then Expoſtulated and Remonſtrated againſt that Pi<g ref="char:EOLhyphen"/>ous Princes being brought to a Tryal: How that in ſome meaſure, you did recover your Reputation, by calling back and Crowning King <hi>Charles</hi> II. and by aſſiſting the Lord General <hi>Monk</hi> in that Glorious Expedition of his, from your Countrey, to bring the King back to the Throne of His Ance<g ref="char:EOLhyphen"/>ſtors; And how in later times, you ſtood firm for the <hi>Succeſſion</hi> in the direct <hi>Line,</hi> when ſo many of theſe very Gentlemen that now Compoſe the <hi>Houſe of Commons,</hi> had Voted our King unqualified for the Crown.</p>
+            <p>If you remember theſe Reparations of your Honour with joy and ſatis<g ref="char:EOLhyphen"/>faction, let me tell you, you have now a more Glorious oportunity to Eter<g ref="char:EOLhyphen"/>nize your Loyalties, and make yourſelves Famous to all Poſterity, by your Juſtice and Fidelity to your King.</p>
+            <p>You juſtly chalenge a pre-eminence, in that the Lineal Succeſſion of your Kings is derived from an Antienter Original, than that of moſt Nations in the World; and tho' ſome interruptions have happened by violent Factions and Ambition, yet the direct Line hath been re-ſtated, and the Uſurpers have been Marked with a moſt black Character in all ſucceding Ages.</p>
+            <p>But I do not at preſent remember in your Hiſtories, that at any time ſince you were a Kingdom, your Anceſtors ever had a more Meritorious Cauſe to ſignalize their Honour, Loyalty and Juſtice, than you have in this pre<g ref="char:EOLhyphen"/>ſent Juncture of Affairs. There are no Nations in Europe, that have not had Experience of your Valour and Gallantry in Feats of Arms; And will it not be an Eternal Blemiſh to your Honour, that you atchieve ſo great Re<g ref="char:EOLhyphen"/>nown abroad in defence of other Princes Rights, and ſuffer your own Na<g ref="char:EOLhyphen"/>tural Leige Lord to be an Exile, and decline to vindicate His Right in your own Native Countrey?</p>
+            <p>The ſupporting the Rights of your Lawful King, and ſtanding firm to your Laws and Allegiance, is that which will gain to your ſelves, your Sons, Brethren and Relations, Fame and Glory in the Courts and Camps of Foreign Princes; and you and your Poſterity may ſee your numerous Progeny riſe to Honour, Wealth, and Great Command again, in the Guards and Armies of the Greateſt Potentates, when they find you ſo Loyal to your Lawful Diſtreſſed King. For there is nothing in the World, that furniſheth any with ſuch invincible Charmes, as Juſtice and Loyalty to ones undoubt<g ref="char:EOLhyphen"/>ed Sovereign.</p>
+            <p>You muſt all be ſatisfy'd, that the King hath a moſt indiſputable Right to His Crown; you know how deſirous He is to Indulge to all His Peaceable Subjects, the free enjoyment of their Religious Worſhip; You know that His endeavour to enrich His People in Trade, and give them this <hi>Liberty of Conſcience,</hi> are the principal cauſes of His Sufferings; and you may be aſ<g ref="char:EOLhyphen"/>ſured, that if in this Juncture you do your Duty, to which you are obliged by the Laws of God, and all your own Laws and Oaths (which ought to be Great, Weighty, and Sacred Obligations to you) His Majeſty will induſtri<g ref="char:EOLhyphen"/>ouſly endeavour to promote your publick and perſonal Advantages.</p>
+            <p>It will be diſhonourable in the utmoſt degree, to have a Foreign King im<g ref="char:EOLhyphen"/>poſed on you that are a Free People, and have a Sovereign of your own, for Whom, if you now Declare and Aſſert His Right, you will have the cheerful concurrence of a numerour Party of the Lords Spiritual and Temporal, and Gentlemen of <hi>England,</hi> who even under the Power and Forces of their King's Enemies, dare be Loyal; and the very concurring with the Laws and the Suffrages of all Juſt Men, will eaſily reſtore the King to His Throne,
+<pb n="4" facs="tcp:33332:3"/>where being once Peaceably Seated, beſides the Honour and Glory of ſo Great an Action, you may be aſſured you will want nothing, either the King or the Juſt, Loyal, or Religious Party of <hi>England,</hi> in gratitude can do for you, to make you Rich and Happy.</p>
+            <p>I know they, who think to bait you with the hope of gain, and by that means, make you renounce your Allegiance to your King, tell you a fair Story, That they will obtain for you the ſo long projected Union of the Kingdoms; but I hope you remember how you were uſed, when the Uſur<g ref="char:EOLhyphen"/>per <hi>Cromwell</hi> granted you the ſame. You got nothing by it, but the main<g ref="char:EOLhyphen"/>taining his Army, and the Building of <hi>Cittadels</hi> to keep you in ſubjection; the impoſing of <hi>Engliſh</hi> Judges as well as their Laws upon you; and ſome of your Repreſentatives, were <hi>Engliſh</hi> Officers and Gentlemen that knew nothing of your Countrey, and the reſt were ſo few, that in every thing they were out-Voted. And I can aſſure you, from the mouths of Great Men in both Houſes of <hi>Parliament,</hi> that ſome do poſitively ſay, <hi>They will never grant you the Favour to joyn your ſmall Stock with theirs;</hi> and others do ingeniouſly confeſs, <hi>That they ſhall never be able to effect it, tho' they Judge the putting you in hopes of it, may make you more eaſie to comply.</hi>
+            </p>
+            <p>I hope therefore, you will not forſake the King's Intereſt, which only can make you Renowned and Happy, for an empty Shadow. It is your acting like Perſons of Honour and Juſtice, and firmly adhearing to your King, that muſt give you the beſt advantages both abroad and at home The King will never forget your kindneſs to Him, and you may not be on<g ref="char:EOLhyphen"/>ly aſſured of all advantages you can propoſe to your ſelves, that are in His Power to Grant, but you will have them made durable not only for His Life, but as long as the Crown remains in the direct Line. Nay, ſhould it ever Deſcend to thoſe who ſnatch it before their time, you will then be looked upon as worthy of Honour and Confidence for having now vindica<g ref="char:EOLhyphen"/>ted the Rights of the King and His Lawful Succeſſors. For whatever may be ſaid or done by any who eagerly ſeek to obtain an unjuſt Poſſeſſion, yet every Man that acts upon Principles of Honour and Juſtice, will certainly be better eſteemed, even by ſuch, than they who ſervily or tamely concur with unjuſt Uſurpers. For tho', to gain the Point they aim at, they offer all plauſible Arguments to procure a Concurrence, yet they are ſenſible, that they act unjuſtly, and cannot ſo huſh their Conſciences, but at ſome time or other they will fly in their Faces, and tell them Truth.</p>
+            <p>You alſo know, that before the Prince had Publiſhed his <hi>Declaration,</hi> the King had Granted moſt of thoſe things, which in the ſaid <hi>Declaration</hi> were marked out as the moſt impulſive Cauſes of his <hi>Invaſion,</hi> and you have no <hi>Grievances</hi> to be redreſſed, nor any Security you can wiſh for your <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Property,</hi> or deſire any good Laws for the publick Weal and Benefit of the Kingdom, that the King will deny or refuſe to gratifie you with in a <hi>Parliamentary</hi> way.</p>
+            <p>If then you will conſult the quiet of your Conſciences, the Juſtice, Honour, and Proſperity of your Nation, the Laws of your Land, your Repute abroad with all Good Men, the Weal of your Poſterity, and avert the Judgments of God, which ſonner or later overtake all perfidious and unjuſt Actions; If you will chear the Hearts and ſtrengthen the Hands of the Loyal and Conſciencious in <hi>England;</hi> It is only to be done by declaring your ſelves true to the King, Abhorrers of all Uſurpations, and Maintainers of your Laws; which Reſolution in you, all Loyal Good Men will Hon<g ref="char:EOLhyphen"/>our you for: and Aſſiſt you in their Defence, and God Almighty will Bleſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you here, and to Eternity in the Accompliſhment of them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
